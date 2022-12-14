@@ -37,7 +37,7 @@ Screenshot of Mobile (375px)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Vercel Live URL](https://interactive-rating-card-ten.vercel.app/)
 
 ## My process
 
